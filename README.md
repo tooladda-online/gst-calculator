@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧾 GST Calculator
+# 🧮 GST Calculator
 
 ### Use GST Calculator free on ToolAdda — quick, accurate, and browser-based.
 
